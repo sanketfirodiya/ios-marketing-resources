@@ -21,5 +21,12 @@ Fancy Mockups & Demo Videos of people using your app.
 
 Upload your designs and download a final mockup within seconds.
 
+4. [VideoScribe](http://www.videoscribe.co/)
+---
+![VideoScribe](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/VideoScribe.png)
+
+Create your own whiteboard-style animations with no design or technical know-how.
+
+
 ## Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
