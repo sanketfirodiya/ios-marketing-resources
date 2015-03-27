@@ -1,5 +1,5 @@
 # iOS app marketing resources
-A curated list of tools and resources for marketing your iOS apps
+A curated list of awesome tools and resources for marketing your iOS apps
 
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/ios-marketing-resources/pulls)
 
@@ -14,3 +14,6 @@ Create gorgeous images for your App Store page in minutes.
 ![Place It](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/PlaceIt.png)
 
 Fancy Mockups & Demo Videos of people using your app.
+
+## Contact
+For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
