@@ -53,7 +53,7 @@ Mockups of people using your app.
 
 9. [Make Screenshots](http://www.makescreenshots.com/)
 ---
-![Make Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeScreenshots.png)
+![Make Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeScreenShots.png)
 
 Upload a high-res iPhone screenshot, customise your images and download ready for the App Store!
 
