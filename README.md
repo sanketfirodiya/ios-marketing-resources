@@ -39,6 +39,12 @@ Upload your designs and download a final mockup within seconds.
 
 Upload your designs and download a final mockup within seconds.
 
+7. [Make Screenshots](http://www.makescreenshots.com/)
+---
+![Make Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeScreenshots.png)
+
+Upload a high-res iPhone screenshot, customise your images and download ready for the App Store!
+
 
 
 ## Contact
