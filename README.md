@@ -1,5 +1,5 @@
 # Awesome list of iOS app branding/marketing tools
-A curated list of awesome tools such as screenshot builders, icon generators, gif generators, automatic app website building tools, for branding and marketing your awesome iOS apps!
+A curated list of awesome tools such as screenshot builders, icon generators, gif generators, landing page website builders, for branding and marketing your awesome iOS apps!
 
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/ios-marketing-resources/pulls)
 
