@@ -57,7 +57,11 @@ Mockups of people using your app.
 
 Upload a high-res iPhone screenshot, customise your images and download ready for the App Store!
 
+10. [TAPromotee](https://github.com/JanC/TAPromotee)
+---
+![TAPromotee](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Promotee.png)
 
+Allows you to show a cross promotion to a iOS app just by supplying its App Store id.
 
 
 
