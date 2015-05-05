@@ -11,15 +11,7 @@ Create gorgeous images for your App Store page in minutes.
 
 <br/>
 
-2. [App Gif](http://appgif.io/)
----
-Turn your app previews into gifs.
-<br/><br/>
-![App Gif](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppGif.png)
-
-<br/>
-
-3. [App Stop](http://app-stop.appspot.com/)
+2. [App Stop](http://app-stop.appspot.com/)
 ---
 Create a landing page for your iPhone app, using the info you've already submitted to the App Store.
 <br/><br/>
@@ -27,7 +19,7 @@ Create a landing page for your iPhone app, using the info you've already submitt
 
 <br/>
 
-4. [Place It](https://placeit.net/)
+3. [Place It](https://placeit.net/)
 ---
 Fancy Mockups & Demo Videos of people using your app.
 <br/><br/>
@@ -35,7 +27,7 @@ Fancy Mockups & Demo Videos of people using your app.
 
 <br/>
 
-5. [VideoScribe](http://www.videoscribe.co/)
+4. [VideoScribe](http://www.videoscribe.co/)
 ---
 Create your own whiteboard-style animations with no design or technical know-how.
 <br/><br/>
@@ -43,11 +35,19 @@ Create your own whiteboard-style animations with no design or technical know-how
 
 <br/>
 
-6. [Make App Icon](http://makeappicon.com/)
+5. [Make App Icon](http://makeappicon.com/)
 ---
 Generate App Icons of ALL sizes with a click!
 <br/><br/>
 ![Make App Icon](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeAppIcon.png)
+
+<br/>
+
+6. [App Gif](http://appgif.io/)
+---
+Turn your app previews into gifs.
+<br/><br/>
+![App Gif](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppGif.png)
 
 <br/>
 
