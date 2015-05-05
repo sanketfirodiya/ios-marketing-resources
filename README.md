@@ -5,80 +5,81 @@ Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/ios-
 
 1. [LaunchKit Screenshots](https://launchkit.io/screenshots)
 ---
-Create gorgeous images for your App Store page in minutes
+Create gorgeous images for your App Store page in minutes.
+<br/><br/>
 ![LaunchKit Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/LaunchKit.png)
 
 <br/>
 
 2. [App Gif](http://appgif.io/)
 ---
-![App Gif](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppGif.png)
-
 Turn your app previews into gifs.
+<br/><br/>
+![App Gif](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppGif.png)
 
 <br/>
 
 3. [App Stop](http://app-stop.appspot.com/)
 ---
-![App Stop](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppStop.png)
-
 Create a landing page for your iPhone app, using the info you've already submitted to the App Store.
+<br/><br/>
+![App Stop](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppStop.png)
 
 <br/>
 
 4. [Place It](https://placeit.net/)
 ---
-![Place It](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/PlaceIt.png)
-
 Fancy Mockups & Demo Videos of people using your app.
+<br/><br/>
+![Place It](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/PlaceIt.png)
 
 <br/>
 
 5. [VideoScribe](http://www.videoscribe.co/)
 ---
-![VideoScribe](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/VideoScribe.png)
-
 Create your own whiteboard-style animations with no design or technical know-how.
+<br/><br/>
+![VideoScribe](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/VideoScribe.png)
 
 <br/>
 
 6. [Make App Icon](http://makeappicon.com/)
 ---
-![Make App Icon](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeAppIcon.png)
-
 Generate App Icons of ALL sizes with a click!
+<br/><br/>
+![Make App Icon](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeAppIcon.png)
 
 <br/>
 
 7. [DaVinci Apps](http://davinciapps.com/)
 ---
-![DaVinci Apps](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/DaVinciApps.png)
-
 Upload your designs and download a final mockup within seconds.
+<br/><br/>
+![DaVinci Apps](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/DaVinciApps.png)
 
 <br/>
 
 8. [Dunk](http://dunnnk.com/)
 ---
-![Dunk](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Dunk.png)
-
 Mockups of people using your app.
+<br/><br/>
+![Dunk](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Dunk.png)
 
 <br/>
 
 9. [Make Screenshots](http://www.makescreenshots.com/)
 ---
-![Make Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeScreenShots.png)
-
 Upload a high-res iPhone screenshot, customise your images and download ready for the App Store!
+<br/><br/>
+![Make Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeScreenShots.png)
 
 <br/>
 
 10. [TAPromotee](https://github.com/JanC/TAPromotee)
 ---
-![TAPromotee](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Promotee.png)
-
 Allows you to show a cross promotion to a iOS app just by supplying its App Store id.
+<br/><br/>
+![TAPromotee](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Promotee.png)
 
 <br/>
 
