@@ -3,11 +3,10 @@ A curated list of awesome tools such as screenshot builders, icon generators, gi
 
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/ios-marketing-resources/pulls)
 
-1. [LaunchKit Screenshots](https://launchkit.io/screenshots) 
+1. [LaunchKit Screenshots](https://launchkit.io/screenshots)
 ---
+Create gorgeous images for your App Store page in minutes
 ![LaunchKit Screenshots](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/LaunchKit.png)
-
-Create gorgeous images for your App Store page in minutes.
 
 <br/>
 
