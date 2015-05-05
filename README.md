@@ -9,11 +9,15 @@ Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/ios-
 
 Create gorgeous images for your App Store page in minutes.
 
+<br/>
+
 2. [App Gif](http://appgif.io/)
 ---
 ![App Gif](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/AppGif.png)
 
 Turn your app previews into gifs.
+
+<br/>
 
 3. [App Stop](http://app-stop.appspot.com/)
 ---
@@ -21,11 +25,15 @@ Turn your app previews into gifs.
 
 Create a landing page for your iPhone app, using the info you've already submitted to the App Store.
 
+<br/>
+
 4. [Place It](https://placeit.net/)
 ---
 ![Place It](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/PlaceIt.png)
 
 Fancy Mockups & Demo Videos of people using your app.
+
+<br/>
 
 5. [VideoScribe](http://www.videoscribe.co/)
 ---
@@ -33,11 +41,15 @@ Fancy Mockups & Demo Videos of people using your app.
 
 Create your own whiteboard-style animations with no design or technical know-how.
 
+<br/>
+
 6. [Make App Icon](http://makeappicon.com/)
 ---
 ![Make App Icon](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/MakeAppIcon.png)
 
 Generate App Icons of ALL sizes with a click!
+
+<br/>
 
 7. [DaVinci Apps](http://davinciapps.com/)
 ---
@@ -45,11 +57,15 @@ Generate App Icons of ALL sizes with a click!
 
 Upload your designs and download a final mockup within seconds.
 
+<br/>
+
 8. [Dunk](http://dunnnk.com/)
 ---
 ![Dunk](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Dunk.png)
 
 Mockups of people using your app.
+
+<br/>
 
 9. [Make Screenshots](http://www.makescreenshots.com/)
 ---
@@ -57,10 +73,15 @@ Mockups of people using your app.
 
 Upload a high-res iPhone screenshot, customise your images and download ready for the App Store!
 
+<br/>
+
 10. [TAPromotee](https://github.com/JanC/TAPromotee)
 ---
 ![TAPromotee](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Promotee.png)
 
 Allows you to show a cross promotion to a iOS app just by supplying its App Store id.
 
+<br/>
+
+##Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
