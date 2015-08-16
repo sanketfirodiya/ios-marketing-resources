@@ -83,5 +83,10 @@ Allows you to show a cross promotion to a iOS app just by supplying its App Stor
 
 <br/>
 
+## More awesome lists for iOS devs
+- https://github.com/sanketfirodiya/awesome-ios-plugins
+- https://github.com/sanketfirodiya/sample-watchkit-apps
+https://github.com/sanketfirodiya/iOS-learning-resources
+
 ##Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
