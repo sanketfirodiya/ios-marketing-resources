@@ -83,6 +83,14 @@ Allows you to show a cross promotion to a iOS app just by supplying its App Stor
 
 <br/>
 
+10. [Appbot](https://appbot.co/)
+---
+Take the pain out of managing app store reviews.
+<br/><br/>
+![Appbot](https://github.com/sanketfirodiya/ios-marketing-resources/blob/master/Images/Appbot.png)
+
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
