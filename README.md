@@ -96,5 +96,5 @@ Take the pain out of managing app store reviews.
 - https://github.com/sanketfirodiya/sample-watchkit-apps
 - https://github.com/sanketfirodiya/iOS-learning-resources
 
-##Contact
+## Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
