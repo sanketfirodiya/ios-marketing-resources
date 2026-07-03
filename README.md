@@ -91,6 +91,11 @@ Take the pain out of managing app store reviews.
 
 <br/>
 
+11. [GetAppNiche](https://getappniche.com/)
+---
+iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
