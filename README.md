@@ -91,6 +91,13 @@ Take the pain out of managing app store reviews.
 
 <br/>
 
+11. [Shots](https://shots.run)
+---
+AI-powered App Store screenshot, app icon, and ASO workflow generation directly from your coding agent (Codex, Claude Code, Cursor, etc). Generates screenshots, icons, and localized listing copy from your app's code and context.
+<br/><br/>
+
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
