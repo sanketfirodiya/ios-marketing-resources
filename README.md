@@ -91,6 +91,14 @@ Take the pain out of managing app store reviews.
 
 <br/>
 
+11. [ezscreenshots](https://ezscreenshots.com)
+---
+Simple screenshot maker for App Store with localization & ASO
+<br/><br/>
+![ezscreenshots.com](https://ezscreenshots.com/images/blog/ezscreenshots-editor.png)
+
+<br />
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
