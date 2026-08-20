@@ -91,6 +91,11 @@ Take the pain out of managing app store reviews.
 
 <br/>
 
+11. [AdMapix](https://www.admapix.com/)
+---
+Research competitor ad creatives and mobile app market data, including rankings, downloads, and revenue.
+<br/><br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
