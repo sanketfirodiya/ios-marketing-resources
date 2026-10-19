@@ -91,6 +91,11 @@ Take the pain out of managing app store reviews.
 
 <br/>
 
+11. [App Store Localizer](https://asolocalization.com)
+---
+Paste a public App Store URL to get translated screenshots plus localized title, subtitle, description, and keywords for 20+ locales.
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
